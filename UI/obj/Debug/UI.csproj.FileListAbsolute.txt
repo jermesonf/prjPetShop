@@ -1,0 +1,128 @@
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\bin\Debug\UI.exe.config
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\bin\Debug\UI.exe
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\bin\Debug\UI.pdb
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.frmAnimais.resources
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.frmClientes.resources
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.exe
+C:\Users\dennys.wsferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.pdb
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\bin\Debug\UI.exe.config
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\bin\Debug\UI.exe
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\bin\Debug\UI.pdb
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\obj\Debug\UI.frmAnimais.resources
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\obj\Debug\UI.frmClientes.resources
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\obj\Debug\UI.exe
+C:\Users\Jermeson.bferreira\Downloads\PetShop_v1\PetShop_v1\UI\obj\Debug\UI.pdb
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\UI.exe.config
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\UI.exe
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\UI.pdb
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.frmAnimais.resources
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.frmClientes.resources
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.exe
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.pdb
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\BLL.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\BLL.pdb
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\Correios.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\Correios.pdb
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\Google.Protobuf.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\MySql.Data.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Buffers.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Memory.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\ZstdSharp.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\DAL.dll
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\BLL.dll.config
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\Google.Protobuf.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\MySql.Data.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Buffers.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Memory.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\DAL.pdb
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\bin\Debug\DAL.dll.config
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.frmTesteConexao.resources
+C:\Users\Jermeson.bferreira\source\repos\PetShop_v1\UI\obj\Debug\UI.frmPrincipal.resources
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\UI.exe.config
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\UI.exe
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\UI.pdb
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\BLL.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\Correios.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\Google.Protobuf.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\MySql.Data.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Buffers.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Memory.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\ZstdSharp.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\DAL.dll
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\BLL.pdb
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\BLL.dll.config
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\Correios.pdb
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\Google.Protobuf.pdb
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\Google.Protobuf.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\MySql.Data.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Buffers.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Memory.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\DAL.pdb
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\bin\Debug\DAL.dll.config
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.frmAnimais.resources
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.frmClientes.resources
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.frmPrincipal.resources
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.frmTesteConexao.resources
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.exe
+C:\Users\jemer\Desktop\Nova pasta (2)\aq\PetShop_v1\UI\obj\Debug\UI.pdb
